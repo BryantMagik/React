@@ -1,5 +1,5 @@
 import './App.css'
-import { UsersPage } from './components'
+import { FormsPage } from './components'
 
 function App() {
 
@@ -12,7 +12,8 @@ function App() {
       {/* <Counter /> */}
       {/* <CounterWithHook/> */}
       {/* <LoginPage/> */}
-      <UsersPage/>
+      {/* <UsersPage/> */}
+      <FormsPage/>
     </main>
   )
 }
